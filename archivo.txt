@@ -2,5 +2,8 @@ hola como estan
 
 estoy agregando una rama para probar los branch y borre otras cosas
 
+agregando algo nuevo para probar los branc
+caminando hacia la casa de un amigo para robarle su comida
 
-ahora agrego nuevas cosas al master para lograr hacer un merge
+entonces sigo agregando cosas para poder hacer un merge
+ 
