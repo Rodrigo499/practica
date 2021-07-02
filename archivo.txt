@@ -14,5 +14,6 @@ agregando llaves para conexion ssh
 
 agregando nuevo integrante 
 
+volviendo agragar algo para probar el upstream y no cagarla en el intento
 
 agregando algo en la rama de footer para el cab
