@@ -10,3 +10,6 @@ entonces sigo agregando cosas para poder hacer un merge
 agregando llaves para conexion ssh
 
 agregando nuevo integrante 
+
+
+agregando algo en la rama de footer para el cab
