@@ -12,6 +12,10 @@ arreglando algo para probar los pull request
 
 entonces sigo agregando cosas para poder hacer un merge
 
+agregando un pull request desde un colaborador externo si formar parte
+de los miembros
+
+
 agregando llaves para conexion ssh
 
 agregando nuevo integrante 
