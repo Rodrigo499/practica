@@ -8,3 +8,5 @@ caminando hacia la casa de un amigo para robarle su comida
 entonces sigo agregando cosas para poder hacer un merge
 
 agregando llaves para conexion ssh
+
+agregando nuevo integrante 
